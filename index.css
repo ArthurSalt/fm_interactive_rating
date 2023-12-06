@@ -29,7 +29,7 @@ html, body {
 .content {
   padding: 27px;
   font-family: 'Overpass', sans-serif;
-  text-align: start;
+  text-align: center;
 }
 .stars {
   margin-bottom: 20px;
@@ -54,10 +54,12 @@ html, body {
   color: white;
   font-weight: 700;
   margin-bottom: 10px;
+  text-align: start;
 }
 .text {
   font-weight: normal;
   font-size: 13px;
+  text-align: start;
   color: hsl(217, 12%, 63%);
 }
 .ratings {
