@@ -29,7 +29,7 @@ html, body {
 .content {
   padding: 27px;
   font-family: 'Overpass', sans-serif;
-  text-align: center;
+  text-align: start;
 }
 .stars {
   margin-bottom: 20px;
